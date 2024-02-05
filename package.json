@@ -1,0 +1,12 @@
+{
+    "name": "twyma",
+    "version": "1.0.0",
+    "scripts": {
+        "build": "postcss app.css -o dist/app.css"
+    },
+    "dependencies": {
+      "postcss": "^8.4.5",
+      "tailwindcss": "^2.2.19",
+      "autoprefixer": "^10.4.2"
+    }
+  }
